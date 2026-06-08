@@ -1,0 +1,17 @@
+# --- Local authoring tooling (never shipped) ---
+.claude/
+graphify-out/
+
+# --- Process artifacts (planning + local QA only) ---
+phase0_recon.md
+phase1_plan.md
+phase2_delete_keep_manifest.csv
+_qa/
+
+# --- Quartz publishing output (Quartz is installed separately by the user) ---
+public/
+node_modules/
+
+# --- OS / editor noise ---
+.DS_Store
+Thumbs.db
