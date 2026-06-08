@@ -1,33 +1,45 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pumacp/puma/main/assets/img/PUMA.png" alt="PUMA Vault Skeleton" width="200" />
+  <img src="https://raw.githubusercontent.com/pumacp/puma/main/assets/img/PUMA.png" alt="PUMA Logo" width="220">
 </p>
-
 <h1 align="center">PUMA Vault Skeleton</h1>
-
 <p align="center">
-  A generic, tool-agnostic, methodology-fused <b>knowledge-management vault skeleton</b><br/>
-  for <b>Obsidian / Logseq / Foam</b> — research-grade information organization.
+  <em>A generic, tool-agnostic, methodology-fused knowledge-management vault skeleton for Obsidian / Logseq / Foam — research-grade information organization.</em>
 </p>
-
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="License: CC BY 4.0"/></a>
   <img src="https://img.shields.io/badge/Markdown-only-blue" alt="Markdown only"/>
   <img src="https://img.shields.io/badge/compatible-Obsidian%20%C2%B7%20Logseq%20%C2%B7%20Foam-7c3aed" alt="Obsidian / Logseq / Foam compatible"/>
   <img src="https://img.shields.io/badge/methodologies-7%20core%20%2B%206%20modular-success" alt="7 core + 6 modular methodologies"/>
+  <a href="https://pumacp.github.io/puma/">
+    <img src="https://img.shields.io/badge/docs-pumacp.github.io%2Fpuma-blue" alt="Documentation">
+  </a>
+  <br>
+  <a href="https://github.com/pumacp/puma-community">
+    <img src="https://img.shields.io/badge/PUMA-Community-orange" alt="PUMA Community">
+  </a>
 </p>
-
 <p align="center">
-  <b>This project:</b>
+  <sub><strong>PUMA Vault Skeleton</strong></sub><br>
   <a href="../../wiki">Wiki</a> ·
   <a href="CONTRIBUTING.md">Contribute</a> ·
-  <a href="../../issues">Issues</a>
+  <a href="../../issues">Issues</a>  
+  <a href="https://pumacp.github.io/puma">PUMA</a> ·
+  <a href="https://pumacp.github.io/puma-community">PUMA Community</a> ·
+  <a href="https://pumacp.github.io/puma-vault">PUMA Vault</a>
 </p>
-
 <p align="center">
-  <b>PUMA ecosystem:</b>
-  <a href="https://github.com/pumacp/puma">PUMA</a> ·
-  <a href="https://github.com/pumacp/puma-vault"><b>PUMA Vault</b></a> — the project this skeleton derives from
+  <sub><strong>PUMA Platform Info</strong></sub><br>
+  <a href="https://www.youtube.com/@PUMA_Project">Youtube</a> ·
+  <a href="https://github.com/pumacp/puma/wiki">PUMA Wiki</a> ·
+  <a href="https://github.com/pumacp/puma-community/wiki">PUMA Community Wiki</a>
 </p>
+<p align="center">
+  <sub><strong>PUMA Contact</strong></sub><br>
+  <a href="https://www.reddit.com/r/pumaproject/">Reddit</a> ·
+  <a href="https://discord.gg/fVhcpHREJv">Discord</a> ·
+  <a href="https://x.com/puma__project">Twitter/X</a> ·
+</p>
+<br>
 
 ---
 
