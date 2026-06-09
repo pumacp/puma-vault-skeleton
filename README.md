@@ -80,7 +80,7 @@ It also works in **Logseq, Foam, VS Code, or by simply reading the files**. Full
 Turn the vault into a site with **Quartz 4** (jackyzha0). No Quartz config ships here — see [`Quartz-Publishing.md`](Quartz-Publishing.md).
 
 ## Quality
-The skeleton targets: 0 broken links · 0 non-English strings (contents and filenames) · ≥7 core methods each with ≥2 worked examples · 100% of explanatory notes classified. How to verify it yourself (no code shipped): [`Verification.md`](Verification.md).
+The skeleton targets: 0 broken links · ≥7 core methods each with ≥2 worked examples · 100% of explanatory notes classified. How to verify it yourself (no code shipped): [`Verification.md`](Verification.md).
 
 ## Contributing & license
 See [`CONTRIBUTING.md`](CONTRIBUTING.md) and [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md). Licensed under **[CC BY 4.0](LICENSE)** — share and adapt with attribution.
